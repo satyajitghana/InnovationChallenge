@@ -3,6 +3,6 @@
 an AI Game, name to be announced
 
 Players :
-  *Shyamant
-  *Aryan
-  *Satyajit
+1.Shyamant
+2.Aryan
+3.Satyajit
