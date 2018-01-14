@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\InnovationGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7160C743-F4A9-498D-9B53-9704F01C4116}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\InnovationGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\InnovationGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{6E4EE062-3A86-4E87-8E08-E231CA69A0BB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\InnovationGame">
+			<UniqueIdentifier>{77D6EE24-C4C9-451A-A8F0-B8B2D4B487D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\InnovationGame\InnovationGame.Build.cs">
+			<Filter>Source\InnovationGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\InnovationGame\InnovationGame.cpp">
+			<Filter>Source\InnovationGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InnovationGame\InnovationGame.h">
+			<Filter>Source\InnovationGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\InnovationGame\InnovationGameCharacter.cpp">
+			<Filter>Source\InnovationGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InnovationGame\InnovationGameCharacter.h">
+			<Filter>Source\InnovationGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\InnovationGame\InnovationGameGameMode.cpp">
+			<Filter>Source\InnovationGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InnovationGame\InnovationGameGameMode.h">
+			<Filter>Source\InnovationGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\InnovationGame\InnovationGameHUD.cpp">
+			<Filter>Source\InnovationGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InnovationGame\InnovationGameHUD.h">
+			<Filter>Source\InnovationGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\InnovationGame\InnovationGameProjectile.cpp">
+			<Filter>Source\InnovationGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InnovationGame\InnovationGameProjectile.h">
+			<Filter>Source\InnovationGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
