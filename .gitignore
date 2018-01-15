@@ -1,3 +1,5 @@
 
 InnovationGame/.vs/InnovationGame/v15/Browse.VC.db
 InnovationGame/.vs/InnovationGame/v15/ipch/AutoPCH/cab5cc4ff04bbb4a/INNOVATIONGAMECHARACTER.ipch
+*.ipch
+InnovationGame/.vs/InnovationGame/v15/.suo

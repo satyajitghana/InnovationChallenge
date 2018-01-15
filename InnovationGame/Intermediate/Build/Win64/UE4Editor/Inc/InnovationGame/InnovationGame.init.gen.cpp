@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeInnovationGame_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/InnovationGame",
 				PKG_CompiledIn | 0x00000000,
-				0x517899C9,
-				0x3C85D749,
+				0x5558FDC0,
+				0xB214800C,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
