@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HelloPlayer-796.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayer.cpp.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayerCharacter.cpp.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayerGameMode.cpp.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayer.init.gen.cpp.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayerCharacter.gen.cpp.obj"
+"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\HelloPlayerGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\HelloPlayer\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\InnovationChallenge\HelloPlayer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HelloPlayer-796.lib"

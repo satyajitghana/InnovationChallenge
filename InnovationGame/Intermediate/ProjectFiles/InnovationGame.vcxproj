@@ -406,6 +406,8 @@
     <NMakeOutput>..\..\Binaries\HTML5\InnovationGame-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\InnovationGame\Pawn_Animal.cpp" />
+    <ClInclude Include="..\..\Source\InnovationGame\Pawn_Animal.h" />
     <None Include="..\..\InnovationGame.uproject" />
     <None Include="..\..\Source\InnovationGame.Target.cs" />
     <None Include="..\..\Source\InnovationGameEditor.Target.cs" />

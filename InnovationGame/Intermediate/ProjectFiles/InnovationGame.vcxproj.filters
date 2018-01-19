@@ -70,9 +70,15 @@
     <ClInclude Include="..\..\Source\InnovationGame\Character_Animal.h">
       <Filter>Source\InnovationGame</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\InnovationGame\Pawn_Animal.h">
+      <Filter>Source\InnovationGame</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\InnovationGame\Character_Animal.cpp">
+      <Filter>Source\InnovationGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InnovationGame\Pawn_Animal.cpp">
       <Filter>Source\InnovationGame</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\HelloPlayer.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{419756A5-FD1F-4234-A6E4-2CE5A81B03AD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HelloPlayer.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\HelloPlayerEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9F536512-BDCA-4097-926A-59735B3D88F4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\HelloPlayer">
+			<UniqueIdentifier>{EF96E54B-444B-48BC-A503-3BDB868ADA28}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HelloPlayer\HelloPlayer.Build.cs">
+			<Filter>Source\HelloPlayer</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\HelloPlayer\HelloPlayer.cpp">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HelloPlayer\HelloPlayer.h">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HelloPlayer\HelloPlayerCharacter.cpp">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HelloPlayer\HelloPlayerCharacter.h">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HelloPlayer\HelloPlayerGameMode.cpp">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HelloPlayer\HelloPlayerGameMode.h">
+			<Filter>Source\HelloPlayer</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,5 +1,11 @@
 
-InnovationGame/.vs/InnovationGame/v15/Browse.VC.db
-InnovationGame/.vs/InnovationGame/v15/ipch/AutoPCH/cab5cc4ff04bbb4a/INNOVATIONGAMECHARACTER.ipch
+InnovationGame/.vs/*
 *.ipch
-InnovationGame/.vs/InnovationGame/v15/.suo
+InnovationChallenge/*
+HelloPlayer/.vs/*
+HelloPlayer/Content/InfinityBladeIceLands/*
+HelloPlayer/Content/KiteDemo/*
+HelloPlayer/Content/StarterContent/*
+HelloPlayer/Content/InfinityBladeGrassLands/*
+HelloPlayer/Content/InfinityBladeAdversaries/*
+HelloPlayer/Content/InfinityBladeWarriors/*
